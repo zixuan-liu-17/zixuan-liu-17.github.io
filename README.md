@@ -1,4 +1,4 @@
-## Zixuan Liu
+# Zixuan Liu
 
 **Contact**: [bitliuzx@gmail.com](mailto:bitliuzx@gmail.com) | +44 07529210017
 
