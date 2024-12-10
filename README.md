@@ -4,8 +4,6 @@
 
 #### Postdoctoral Research
 
-**Research Consultant**(Imperial College, 2024-2025): I'm currently working for the CCG(Climate Compatile Growth) project as a Research Consultant. I'm responsible for the development of modelling tools, e.g. FFRM (Fossil Fuel Retirement Model, a tool originally constructed by The World Bank that allows the user to estimate the cost of compensating investors for early withdrawal of fossil fuel power plants), and  MinFin (Model for Informed National Financing that evaluates energy sector financing gaps based on investment needs from long-term energy planning models and the available cost of capital, and simulates strategies to close the financing gaps). 
-
 **Research Assistant**(Bristol, 2024): As a joint Research Assistant co-supervised by Dr Bangdong Zhi (Bristol) and Oliver Y. Chen (CHUV and UNIL), I am using generative AI models to extract key information** from textual literature in healthcare operation, health management, and medicine. Additionally, I contributed to summarising the findings in a comprehensive report, which will be published to share our insights with the broader research community. Based on the findings, I **developed a web app** that recommend academic paper to audience based on semantic similarities.
 
 #### Education
