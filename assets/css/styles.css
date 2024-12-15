@@ -64,12 +64,23 @@ footer {
 
 @media (max-width: 576px) {  /* 手机屏幕 */
     .card {
-        max-width: 90%;
-        margin: 0 auto;
+        width: 90vw !important;  /* 使用视窗宽度单位，并添加 !important 来确保覆盖其他样式 */
+        margin-left: auto !important;
+        margin-right: auto !important;
+    }
+    
+    .container {
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+    }
+    
+    .col {
+        padding-left: 0 !important;
+        padding-right: 0 !important;
     }
 }
 
-@media (min-width: 577px) {  /* 大屏幕 */
+@media (min-width: 1081px) {  /* 大屏幕 */
     .card {
         max-width: 100%;
     }
