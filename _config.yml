@@ -1,0 +1,10 @@
+style:
+  font-family: 'Arial, sans-serif'
+  font-size: 16px
+  color: '#333333'
+  background-color: '#f8f8f8'
+  line-height: 1.5
+  margin: 0
+  padding: 20px
+theme: jekyll-theme-hacker
+
